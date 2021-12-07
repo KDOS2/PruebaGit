@@ -6538,11 +6538,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\Git\\57Blocks\\57BlocksApiRest\\57BlocksApiRest.csproj",
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\cero8\\OneDrive\\Documentos\\pruebaGit\\57BlocksApiRest\\57BlocksApiRest.csproj",
       "projectName": "57BlocksApiRest",
-      "projectPath": "D:\\Proyectos\\Git\\57Blocks\\57BlocksApiRest\\57BlocksApiRest.csproj",
+      "projectPath": "C:\\Users\\cero8\\OneDrive\\Documentos\\pruebaGit\\57BlocksApiRest\\57BlocksApiRest.csproj",
       "packagesPath": "C:\\Users\\cero8\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\Git\\57Blocks\\57BlocksApiRest\\obj\\",
+      "outputPath": "C:\\Users\\cero8\\OneDrive\\Documentos\\pruebaGit\\57BlocksApiRest\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksApiRest\\57BlocksApiRest.csproj",
+      "projectName": "57BlocksApiRest",
+      "projectPath": "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksApiRest\\57BlocksApiRest.csproj",
+      "packagesPath": "C:\\Users\\cero8\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksApiRest\\obj\\",
+>>>>>>> 65978440ee4586eb7295487cb740df9a2ca8c5c8
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cero8\\AppData\\Roaming\\NuGet\\NuGet.Config",
