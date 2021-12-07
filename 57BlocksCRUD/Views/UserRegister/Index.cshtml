@@ -1,0 +1,60 @@
+﻿@model _57BlocksCRUD.Models.UserRegisterModel
+
+@{
+    ViewData["Title"] = "User register";
+}
+
+<h4>Users</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            @if (TempData["msg"] != null || TempData["msgError"] != null)
+            {
+                string msg = TempData["msg"] != null ? TempData["msg"].ToString() : TempData["msgError"].ToString();
+                string clas = TempData["msg"] != null ? "alert alert-success" : "alert alert-danger";
+            <div class="@clas">
+                @msg
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>               
+            }
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="UserId" />
+            <div class="form-group">
+                <label for="UserName" class="control-label">User name:</label>
+                <input asp-for="UserName" class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="UserlastName" class="control-label">Last Name:</label>
+                <input asp-for="UserlastName" class="form-control" />
+                <span asp-validation-for="UserlastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="email" class="control-label">Email:</label>
+                <input asp-for="email" class="form-control" />
+                <span asp-validation-for="email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="pws" class="control-label">Password:</label>
+                @Html.PasswordFor(model => model.pws, new { @class = "form-control" })
+                <span asp-validation-for="pws" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink("Back to main page.", "Index", "Home")
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,370 @@
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.exe
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.deps.json
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.runtimeconfig.json
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.runtimeconfig.dev.json
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.pdb
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csprojAssemblyReference.cache
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.AssemblyInfoInputs.cache
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.AssemblyInfo.cs
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.RazorTargetAssemblyInfo.cache
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\obj\Debug\netcoreapp3.1\staticwebassets\57BlocksApiRest.StaticWebAssets.Manifest.cache
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\obj\Debug\netcoreapp3.1\staticwebassets\57BlocksApiRest.StaticWebAssets.xml
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.pdb
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.genruntimeconfig.cache
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csproj.CoreCompileInputs.cache
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Prueba 57Blocks\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csproj.CopyComplete
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.exe
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.deps.json
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.runtimeconfig.json
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.runtimeconfig.dev.json
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.pdb
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csproj.AssemblyReference.cache
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.AssemblyInfoInputs.cache
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.AssemblyInfo.cs
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csproj.CoreCompileInputs.cache
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\obj\Debug\netcoreapp3.1\staticwebassets\57BlocksApiRest.StaticWebAssets.Manifest.cache
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\obj\Debug\netcoreapp3.1\staticwebassets\57BlocksApiRest.StaticWebAssets.xml
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\obj\Debug\netcoreapp3.1\scopedcss\bundle\57BlocksApiRest.styles.css
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.RazorTargetAssemblyInfo.cache
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.dll
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.pdb
+C:\Users\fmarquez\Documents\Prueba27Block\57BlocksApiRest\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.genruntimeconfig.cache
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.exe
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.deps.json
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.runtimeconfig.json
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.runtimeconfig.dev.json
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.pdb
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csprojAssemblyReference.cache
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.AssemblyInfoInputs.cache
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.AssemblyInfo.cs
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csproj.CoreCompileInputs.cache
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.RazorTargetAssemblyInfo.cache
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csproj.CopyComplete
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\obj\Debug\netcoreapp3.1\staticwebassets\57BlocksApiRest.StaticWebAssets.Manifest.cache
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\obj\Debug\netcoreapp3.1\staticwebassets\57BlocksApiRest.StaticWebAssets.xml
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.dll
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.pdb
+D:\Documentos\Prueba 57Blocks\Prueba57Block\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.genruntimeconfig.cache
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.exe
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.deps.json
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.runtimeconfig.json
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.runtimeconfig.dev.json
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.pdb
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csproj.AssemblyReference.cache
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.AssemblyInfoInputs.cache
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.AssemblyInfo.cs
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csproj.CoreCompileInputs.cache
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\staticwebassets\57BlocksApiRest.StaticWebAssets.Manifest.cache
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\staticwebassets\57BlocksApiRest.StaticWebAssets.xml
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\scopedcss\bundle\57BlocksApiRest.styles.css
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.RazorTargetAssemblyInfo.cache
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.dll
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.pdb
+C:\Users\fmarquez\Downloads\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.genruntimeconfig.cache
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.exe
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.deps.json
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.runtimeconfig.json
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.runtimeconfig.dev.json
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.pdb
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csprojAssemblyReference.cache
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.AssemblyInfoInputs.cache
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.AssemblyInfo.cs
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.RazorTargetAssemblyInfo.cache
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csproj.CopyComplete
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\staticwebassets\57BlocksApiRest.StaticWebAssets.Manifest.cache
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\staticwebassets\57BlocksApiRest.StaticWebAssets.xml
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.pdb
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.genruntimeconfig.cache
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csproj.CoreCompileInputs.cache
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.exe
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.deps.json
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.runtimeconfig.json
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.runtimeconfig.dev.json
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\57BlocksApiRest.pdb
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csprojAssemblyReference.cache
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.AssemblyInfoInputs.cache
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.AssemblyInfo.cs
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csproj.CoreCompileInputs.cache
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.RazorTargetAssemblyInfo.cache
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.csproj.CopyComplete
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\staticwebassets\57BlocksApiRest.StaticWebAssets.Manifest.cache
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\staticwebassets\57BlocksApiRest.StaticWebAssets.xml
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.dll
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.pdb
+D:\Documentos\Prueba 57Blocks\57BlocksCRUD\57BlocksCRUD\57BlocksApiRest\obj\Debug\netcoreapp3.1\57BlocksApiRest.genruntimeconfig.cache

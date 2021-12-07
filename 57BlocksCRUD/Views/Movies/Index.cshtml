@@ -1,0 +1,80 @@
+﻿@model _57BlocksCRUD.Models.MoviesModel
+
+@{
+    ViewData["Title"] = "Movies Management";
+}
+
+<h4>Movies</h4>
+<hr />
+<div class="row">
+    <div class="col-md-5">
+        <form asp-action="Create" method="post">
+
+            @if (TempData["msg"] != null || TempData["msgError"] != null)
+            {
+                string msg = TempData["msg"] != null ? TempData["msg"].ToString() : TempData["msgError"].ToString();
+                string clas = TempData["msg"] != null ? "alert alert-success" : "alert alert-danger";
+                <div class="@clas">
+                    @msg
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+            }
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="UserId" />
+            <div class="form-group">
+                <label for="MovieName" class="control-label">Movie name:</label>
+                <input asp-for="MovieName" class="form-control" />
+                <span asp-validation-for="MovieName" class="text-danger"></span>
+                <input type="hidden" asp-for="id" />
+            </div>
+            <div class="form-group">
+                <label for="GenderId" class="control-label">Gender:</label>
+                <select asp-for="GenderId" name="GenderId" asp-items="@(new SelectList(Model.Gender, "GenderId", "GenderDescription"))" class="form-control">
+                    <option></option>
+                </select>
+                <span asp-validation-for="GenderId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Duration" class="control-label">Duration:</label>
+                <input asp-for="Duration" class="form-control" />
+                <span asp-validation-for="Duration" class="text-danger"></span>
+            </div>
+
+            <div class="form-check-inline">
+                <input type="submit" value="Save" id="save" class="btn btn-primary" />
+                <input type="button" value="Cancel edition" id="cancelEdit" class="btn btn-primary" onclick="cancelEdition(); javascript:return $('#cancelEdit').css('display', 'none');" style="display: none;"/>
+            </div>
+            <br /><br />
+
+            <div class="form-group" id="result">
+                @if (!Model.DataShow.Count().Equals(0))
+                {
+                    Model.likes = false;
+                    @await Html.PartialAsync("Detalle", Model)
+                }
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink("Back to main page.", "Index", "Home")
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script src="~/Scripts/Movies.js"></script>
+    <script>
+        function cancelEdition() {
+        $("#id").val("");
+        $("#MovieName").val("");
+        $("#Duration").val("0");
+        $("#GenderId").val("");
+        $("#GenderId").get(0).selectedIndex = 0;
+        }
+    </script>
+}

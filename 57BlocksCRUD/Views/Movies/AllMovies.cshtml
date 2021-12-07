@@ -1,0 +1,62 @@
+﻿@model _57BlocksCRUD.Models.MoviesModel
+
+@{
+    ViewData["Title"] = "Movies.";
+}
+
+<h4>Movies</h4>
+<hr />
+<div class="row">
+    <div class="col-md-5">
+        <form asp-action="Movies" method="get">
+
+            @if (TempData["msg"] != null || TempData["msgError"] != null)
+            {
+                string msg = TempData["msg"] != null ? TempData["msg"].ToString() : TempData["msgError"].ToString();
+                string clas = TempData["msg"] != null ? "alert alert-success" : "alert alert-danger";
+                <div class="@clas">
+                    @msg
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+            }
+
+            <div class="form-group">
+                <select asp-for="GenderId" name="GenderId" class="form-control" onchange="filtrar()">
+                    <option value="0"></option>
+                    <option value="2"> Everything </option>
+                    <option value="1"> My likes </option>
+                </select>
+            </div>
+
+            <br /><br />
+
+            <div class="form-group" id="result">
+                @if (!Model.DataShow.Count().Equals(0))
+                {
+                    Model.likes = true;
+                    @await Html.PartialAsync("Detalle", Model)
+                }
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink("Back to main page.", "Index", "Home")
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script>
+        function filtrar() {
+
+            if ($("#GenderId").val() == '1')
+                location.href = "@Url.Action("AllMoviesFilter", "Movies")" + "?filter=" + $("#GenderId").val();
+            else
+                location.href = "@Url.Action("AllMoviesFilter", "Movies")" ;
+        }
+    </script>
+}
