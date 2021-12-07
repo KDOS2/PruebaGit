@@ -55,7 +55,7 @@
                                                                                 "validate following: <br> it contains at least 10 characters." +
                                                                                 "One lowercase letter." +
                                                                                 "One uppercase letter." +
-                                                                                "One of the following characters: !, @, #, ? or ]";
+                                                                                "One of the following characters: !, @, #, ? or ]. ";
 
                 if (string.IsNullOrEmpty(mensaje))
                     return this.Login(login);
