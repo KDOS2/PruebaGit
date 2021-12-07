@@ -54,7 +54,7 @@
                                                                                 "One of the following characters: !, @, #, ? or ]." : "Pasword is not valid: </br></tr> please Make sure your are typing a right pasword <br> " +
                                                                                 "validate following: <br> it contains at least 10 characters." +
                                                                                 "One lowercase letter." +
-                                                                                "One uppercase letter " +
+                                                                                "One uppercase letter." +
                                                                                 "One of the following characters: !, @, #, ? or ].";
 
                 if (string.IsNullOrEmpty(mensaje))
