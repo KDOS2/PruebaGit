@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fd9evGSgaDebm1H3rac5OMNpnPe8l5UWqvSC1TE0pIvJo3B7Jl1K3OaUfquWlM975IGAQuhhvUuQzwrU8O+mFQ==",
+  "dgSpecHash": "6GpTp/sfBOkiHC/kDvzi9UzobCX/7Yzr5ILMHNnsH5QUFsVYei0TfEzpuW65r6m7wn30xqnzullUtBdLJkvW3A==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\Git\\57Blocks\\57BlocksCRUD\\57BlocksCRUD.csproj",
+  "projectFilePath": "C:\\Users\\cero8\\OneDrive\\Documentos\\pruebaGit\\57BlocksCRUD\\57BlocksCRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cero8\\.nuget\\packages\\bootstrap\\5.1.2\\bootstrap.5.1.2.nupkg.sha512",
     "C:\\Users\\cero8\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\2.2.0\\microsoft.aspnetcore.cryptography.internal.2.2.0.nupkg.sha512",
