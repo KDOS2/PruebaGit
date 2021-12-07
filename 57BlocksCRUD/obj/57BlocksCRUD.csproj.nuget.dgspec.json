@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\Git\\57Blocks\\57BlocksCRUD\\57BlocksCRUD.csproj": {}
+    "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksCRUD\\57BlocksCRUD.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\Git\\57Blocks\\57BlocksCRUD\\57BlocksCRUD.csproj": {
+    "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksCRUD\\57BlocksCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\Git\\57Blocks\\57BlocksCRUD\\57BlocksCRUD.csproj",
+        "projectUniqueName": "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksCRUD\\57BlocksCRUD.csproj",
         "projectName": "57BlocksCRUD",
-        "projectPath": "D:\\Proyectos\\Git\\57Blocks\\57BlocksCRUD\\57BlocksCRUD.csproj",
+        "projectPath": "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksCRUD\\57BlocksCRUD.csproj",
         "packagesPath": "C:\\Users\\cero8\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\Git\\57Blocks\\57BlocksCRUD\\obj\\",
+        "outputPath": "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cero8\\AppData\\Roaming\\NuGet\\NuGet.Config",

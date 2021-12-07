@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YLfvRg65hxpRKUSKJql8qltGslfFHQ9H7FFJpgTUdGMxzZDTCR1tIkEaUjLYOjiXaLAu1eAqvfMmIBFWWVZT2A==",
+  "dgSpecHash": "UEaBIWc/T8jOa7b/A8K27zKwJ4vAVivR1S7XSehw8RxRcvJuynpPHCXRphP4OKgrMSFg/I1fxWM81yAjBzCnPQ==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\Git\\57Blocks\\57BlocksApiRest\\57BlocksApiRest.csproj",
+  "projectFilePath": "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksApiRest\\57BlocksApiRest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cero8\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\cero8\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",

@@ -47,7 +47,7 @@
                     mensaje = "Email is not valid";
 
                 if (!this.ValidarPws(login.pws))
-                    mensaje = !string.IsNullOrEmpty(mensaje) ? mensaje + " <br> Pasword is not valid: <br><tr> please Make sure your are typing a right pasword <br> " +
+                    mensaje = !string.IsNullOrEmpty(mensaje) ? mensaje + " <br> Paswords is not valid: <br><tr> please Make sure your are typing a right pasword <br> " +
                                                                                 "validate following: <br> it contains at least 10 characters." +
                                                                                 "One lowercase letter." +
                                                                                 "One uppercase letter " +
