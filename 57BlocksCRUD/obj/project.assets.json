@@ -7203,19 +7203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\cero8\\OneDrive\\Documentos\\pruebaGit\\57BlocksCRUD\\57BlocksCRUD.csproj",
+      "projectUniqueName": "D:\\Proyectos\\Git\\57Blocks\\57BlocksCRUD\\57BlocksCRUD.csproj",
       "projectName": "57BlocksCRUD",
-      "projectPath": "C:\\Users\\cero8\\OneDrive\\Documentos\\pruebaGit\\57BlocksCRUD\\57BlocksCRUD.csproj",
+      "projectPath": "D:\\Proyectos\\Git\\57Blocks\\57BlocksCRUD\\57BlocksCRUD.csproj",
       "packagesPath": "C:\\Users\\cero8\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cero8\\OneDrive\\Documentos\\pruebaGit\\57BlocksCRUD\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksCRUD\\57BlocksCRUD.csproj",
-      "projectName": "57BlocksCRUD",
-      "projectPath": "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksCRUD\\57BlocksCRUD.csproj",
-      "packagesPath": "C:\\Users\\cero8\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksCRUD\\obj\\",
->>>>>>> 65978440ee4586eb7295487cb740df9a2ca8c5c8
+      "outputPath": "D:\\Proyectos\\Git\\57Blocks\\57BlocksCRUD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cero8\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7290,6 +7282,12 @@
     }
   },
   "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché D:\\Proyectos\\Git\\57Blocks\\57BlocksCRUD\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    },
     {
       "code": "NU1701",
       "level": "Warning",

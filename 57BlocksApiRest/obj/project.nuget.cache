@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "BeSonuEE0D7g1P9Hakrg38+U4QsP2avrYZbtivhbl8QSiVuzX5p8eYtSaebgr3Kj9YHszCpDiz8qmizdWi0zJA==",
+  "dgSpecHash": "YLfvRg65hxpRKUSKJql8qltGslfFHQ9H7FFJpgTUdGMxzZDTCR1tIkEaUjLYOjiXaLAu1eAqvfMmIBFWWVZT2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cero8\\OneDrive\\Documentos\\pruebaGit\\57BlocksApiRest\\57BlocksApiRest.csproj",
-=======
-  "dgSpecHash": "UEaBIWc/T8jOa7b/A8K27zKwJ4vAVivR1S7XSehw8RxRcvJuynpPHCXRphP4OKgrMSFg/I1fxWM81yAjBzCnPQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksApiRest\\57BlocksApiRest.csproj",
->>>>>>> 65978440ee4586eb7295487cb740df9a2ca8c5c8
+  "projectFilePath": "D:\\Proyectos\\Git\\57Blocks\\57BlocksApiRest\\57BlocksApiRest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cero8\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\cero8\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",
@@ -132,6 +126,12 @@
     "C:\\Users\\cero8\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché D:\\Proyectos\\Git\\57Blocks\\57BlocksApiRest\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    },
     {
       "code": "NU1701",
       "level": "Warning",
