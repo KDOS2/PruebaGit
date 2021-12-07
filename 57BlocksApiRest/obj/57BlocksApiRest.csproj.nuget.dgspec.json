@@ -1,31 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\cero8\\OneDrive\\Documentos\\pruebaGit\\57BlocksApiRest\\57BlocksApiRest.csproj": {}
+    "D:\\Proyectos\\Git\\57Blocks\\57BlocksApiRest\\57BlocksApiRest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cero8\\OneDrive\\Documentos\\pruebaGit\\57BlocksApiRest\\57BlocksApiRest.csproj": {
+    "D:\\Proyectos\\Git\\57Blocks\\57BlocksApiRest\\57BlocksApiRest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cero8\\OneDrive\\Documentos\\pruebaGit\\57BlocksApiRest\\57BlocksApiRest.csproj",
+        "projectUniqueName": "D:\\Proyectos\\Git\\57Blocks\\57BlocksApiRest\\57BlocksApiRest.csproj",
         "projectName": "57BlocksApiRest",
-        "projectPath": "C:\\Users\\cero8\\OneDrive\\Documentos\\pruebaGit\\57BlocksApiRest\\57BlocksApiRest.csproj",
+        "projectPath": "D:\\Proyectos\\Git\\57Blocks\\57BlocksApiRest\\57BlocksApiRest.csproj",
         "packagesPath": "C:\\Users\\cero8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cero8\\OneDrive\\Documentos\\pruebaGit\\57BlocksApiRest\\obj\\",
-=======
-    "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksApiRest\\57BlocksApiRest.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksApiRest\\57BlocksApiRest.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksApiRest\\57BlocksApiRest.csproj",
-        "projectName": "57BlocksApiRest",
-        "projectPath": "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksApiRest\\57BlocksApiRest.csproj",
-        "packagesPath": "C:\\Users\\cero8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cero8\\OneDrive\\Documentos\\git\\57Project\\57BlocksApiRest\\obj\\",
->>>>>>> 65978440ee4586eb7295487cb740df9a2ca8c5c8
+        "outputPath": "D:\\Proyectos\\Git\\57Blocks\\57BlocksApiRest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cero8\\AppData\\Roaming\\NuGet\\NuGet.Config",
